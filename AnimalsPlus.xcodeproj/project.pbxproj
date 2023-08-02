@@ -44,6 +44,7 @@
 		0DDB935F2A78CE94001719DA /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB935E2A78CE94001719DA /* VideoListItemView.swift */; };
 		0DDB93612A797616001719DA /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB93602A797616001719DA /* VideoPlayerView.swift */; };
 		0DDB93642A797787001719DA /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB93632A797787001719DA /* VideoPlayerHelper.swift */; };
+		0DDB93662A7ABC90001719DA /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB93652A7ABC90001719DA /* LocationModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		0DDB935E2A78CE94001719DA /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 		0DDB93602A797616001719DA /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		0DDB93632A797787001719DA /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
+		0DDB93652A7ABC90001719DA /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				0DDB93472A76C94E001719DA /* CoverImageModel.swift */,
 				0DDB934E2A782A56001719DA /* AnimalModel.swift */,
 				0DDB935C2A78CDFC001719DA /* VideoModel.swift */,
+				0DDB93652A7ABC90001719DA /* LocationModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				0DDB933C2A761B84001719DA /* VideoListView.swift in Sources */,
 				0DDB935D2A78CDFC001719DA /* VideoModel.swift in Sources */,
 				0DDB93402A761BA6001719DA /* GalleryView.swift in Sources */,
+				0DDB93662A7ABC90001719DA /* LocationModel.swift in Sources */,
 				0DDB93552A78349A001719DA /* InsetGalleryView.swift in Sources */,
 				0DDB935F2A78CE94001719DA /* VideoListItemView.swift in Sources */,
 				0DDB934B2A76CAA0001719DA /* CodableBundleExtension.swift in Sources */,
