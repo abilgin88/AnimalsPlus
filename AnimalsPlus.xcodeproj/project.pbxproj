@@ -45,6 +45,7 @@
 		0DDB93612A797616001719DA /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB93602A797616001719DA /* VideoPlayerView.swift */; };
 		0DDB93642A797787001719DA /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB93632A797787001719DA /* VideoPlayerHelper.swift */; };
 		0DDB93662A7ABC90001719DA /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB93652A7ABC90001719DA /* LocationModel.swift */; };
+		0DDB93682A7C1601001719DA /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB93672A7C1601001719DA /* MapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		0DDB93602A797616001719DA /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		0DDB93632A797787001719DA /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		0DDB93652A7ABC90001719DA /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		0DDB93672A7C1601001719DA /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -196,6 +198,7 @@
 				0DDB935A2A78B8C2001719DA /* ExternalWeblinkView.swift */,
 				0DDB935E2A78CE94001719DA /* VideoListItemView.swift */,
 				0DDB93602A797616001719DA /* VideoPlayerView.swift */,
+				0DDB93672A7C1601001719DA /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				0DDB93642A797787001719DA /* VideoPlayerHelper.swift in Sources */,
 				0DDB93592A78B4ED001719DA /* InsetMapView.swift in Sources */,
 				0D8B86EE2A7615CD009FB1AD /* AnimalsPlusApp.swift in Sources */,
+				0DDB93682A7C1601001719DA /* MapAnnotationView.swift in Sources */,
 				0DDB933C2A761B84001719DA /* VideoListView.swift in Sources */,
 				0DDB935D2A78CDFC001719DA /* VideoModel.swift in Sources */,
 				0DDB93402A761BA6001719DA /* GalleryView.swift in Sources */,
